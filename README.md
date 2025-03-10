@@ -9,5 +9,5 @@ Projeto para Laboratório de Banco de Dados.
 - Levi Araújo
 
 ## Empresa:
-- Abreu Gráfica
+- Nome: Abreu Gráfica
 - CNPJ: 07.267.290/0001-83
