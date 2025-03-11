@@ -1,9 +1,10 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-    --color1: #06f7a2;
-    --color2: #04680b;
+    --color1: #008cbf;
+    --color2: #044170;
 }
 
 * {
@@ -11,9 +12,18 @@
     padding: 0px;
 }
 
+body{
+    font-family: Roboto;
+}
+
 header{
     background-image: linear-gradient(var(--color1), var(--color2));
     padding: 13px;
+}
+
+header img {
+    display: block;
+    margin: auto;
 }
 
 header h1, p {
@@ -24,7 +34,7 @@ header h1, p {
 
 nav {
     background-color: var(--color2);
-    padding: 5px;
+    padding: 8px;
 }
 
 nav a {
