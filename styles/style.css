@@ -12,7 +12,7 @@
 }
 
 header{
-    background-image: linear-gradient(#06f7a2, #04680b);
+    background-image: linear-gradient(var(--color1), var(--color2));
     padding: 13px;
 }
 
@@ -23,7 +23,7 @@ header h1, p {
 }
 
 nav {
-    background-color: #04680b;
+    background-color: var(--color2);
     padding: 5px;
 }
 
@@ -36,7 +36,8 @@ nav a {
 }
 
 nav a:hover{
-    background-color: #06f7a2;
+    background-color: var(--color1);
+    color: var(--color2);
 }
 
 /*footer{
