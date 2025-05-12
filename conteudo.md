@@ -11,3 +11,14 @@ Projeto para Laboratório de Banco de Dados.
 ## Empresa:
 - Nome: Abreu Gráfica
 - CNPJ: 07.267.290/0001-83
+
+### Cronograma do projeto de forma individual:
+| Semana | Atividades desenvolvidas |
+-------------------------------------
+| 1 | Estudo do público-alvo e reuniões iniciais de alinhamento |
+| 2 | Desenvolvimento do conceito visual do site |
+| 3 | Criação dos primeiros protótipos navegáveis |
+| 4 | Testes e ajustes com base no feedback da equipe |
+| 5 | Integração com as funcionalidades desenvolvidas pelo programador |
+| 6 | Finalização do layout e entrega dos arquivos de design |
+| 7 | Elaboração de materiais gráficos para apresentação do projeto |
