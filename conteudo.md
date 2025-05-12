@@ -14,7 +14,7 @@ Projeto para Laboratório de Banco de Dados.
 
 ### Cronograma do projeto de forma individual:
 | Semana | Atividades desenvolvidas |
--------------------------------------
+|--------|--------------------------|
 | 1 | Estudo do público-alvo e reuniões iniciais de alinhamento |
 | 2 | Desenvolvimento do conceito visual do site |
 | 3 | Criação dos primeiros protótipos navegáveis |
